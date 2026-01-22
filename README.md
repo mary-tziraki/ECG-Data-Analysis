@@ -3,3 +3,7 @@
 
 We work with the **UCLH Hospital** and we sellect each patients data over 20 days and save them in a file called 
 *ECG_01.csv*
+The doctors who took the data were: 
+a) Dr Elis Smith 
+b) Dr Xiang Xu
+c) Dr Amira Sinh 
