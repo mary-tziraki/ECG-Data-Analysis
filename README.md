@@ -7,3 +7,6 @@ We work with the **UCLH Hospital** and we sellect each patients data over 20 day
 - a) Dr Elis Smith 
 - b) Dr Xiang Xu
 - c) Dr Amira Sinh 
+### The instruments we used are 
+- ECG electronics board ECGRA123
+- Monitor Dell- ACS23
